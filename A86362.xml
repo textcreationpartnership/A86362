@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prevention of poverty; or, New proposals humbly offered, for enriching the nation advancing His Majesties revenue and great advantage both of the city of London and country, by encrease of trade from our own manufactures, setting all poor people at work, preventing unnecessary law-suits, restraining the insolencies of bayliffs, extortions of goalers, promoting the relief of distressed prisoners, and suppression of beggars, vagrants, &amp;c.</title>
+            <author>Haines, Richard, 1633-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86362</idno>
+            <idno type="STC">Wing H204</idno>
+            <idno type="STC">ESTC R230063</idno>
+            <idno type="EEBO-CITATION">99895895</idno>
+            <idno type="PROQUEST">99895895</idno>
+            <idno type="VID">153449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2365:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prevention of poverty; or, New proposals humbly offered, for enriching the nation advancing His Majesties revenue and great advantage both of the city of London and country, by encrease of trade from our own manufactures, setting all poor people at work, preventing unnecessary law-suits, restraining the insolencies of bayliffs, extortions of goalers, promoting the relief of distressed prisoners, and suppression of beggars, vagrants, &amp;c.</title>
+                  <author>Haines, Richard, 1633-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Richard Haines. Cf. Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poverty --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Economic policy --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153449:1"/>
+            <p>THE <hi>PREVENTION</hi> of <hi>POVERTY;</hi> OR, NEW PROPOSALS HUMBLY OFFERED, FOR ENRICHING the NATION ADVANCING His Majeſties REVENUE, AND Great Advantage both of the City of <hi>LONDON</hi> and COUNTRY, By Encreaſe of Trade from our own Manufactures, ſet<g ref="char:EOLhyphen"/>ting all Poor People at Work, preventing unneceſſary Law-Suits, reſtraining the Inſolencies of Bayliffs, Ex<g ref="char:EOLhyphen"/>tortions of Goalers, promoting the Relief of diſtreſſed Priſoners, and ſuppreſſion of Beggars, Vagrants, <hi>&amp;c.</hi>
+            </p>
+            <q xml:lang="lat">Saepe etiam eſt olitor verba opportuna locutus.</q>
+            <q>In all labour there is profit, but the talk of the lips tendeth only to penury. <bibl>Prov. 14.23.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. H.</hi> in the Year 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153449:2"/>
+            <pb n="3" facs="tcp:153449:2"/>
+            <head>THE PREVENTION of POVERTY, OR, NEW PROPOSALS Humbly offered for enriching the Nation, <hi>&amp;c.</hi>
+            </head>
+            <p>'TIS a good Maxime, <hi>No Man ought to be wiſer than the Law;</hi> yet 'tis hop'd what tends to publique advantage, may with modeſty, and due <hi>ſubmiſſion</hi> to Authority, be offered to <hi>conſideration,</hi> eſpecially in ſuch Parti<g ref="char:EOLhyphen"/>culars not yet <hi>determined</hi> by Law, but additionally adapted to preſent Emergencies.</p>
+            <p n="1">1. The firſt <hi>Riches</hi> of a Nation is the <hi>Multitude of its Inhabitants;</hi> The next Care, is by good <hi>Educati<g ref="char:EOLhyphen"/>on,</hi> and ſtrict Laws, to keep and enure them all to <hi>Labour, Frugality,</hi> and <hi>Induſtry;</hi>—I will not un<g ref="char:EOLhyphen"/>dertake, becauſe I fear 'tis but charming a deaf Ad<g ref="char:EOLhyphen"/>der, to perſwade ſome City Shop-keepers and ordina<g ref="char:EOLhyphen"/>ry Tradeſmen out of their fancy, <hi>That the more there are of their way of dealing</hi> (Caeteris paribus) <hi>the worſe it is for them:</hi> But let them but look into the Sub<g ref="char:EOLhyphen"/>urbs
+<pb n="4" facs="tcp:153449:3"/>(if they never were in <hi>Holland</hi>) and examine whether it be not true, That where there are a Mul<g ref="char:EOLhyphen"/>titude of People, there the Conſumption is augment<g ref="char:EOLhyphen"/>ed, and every one makes buſineſs for his Neighbour; where there is beſt choice, flock moſt Buyers. Since Wars, Peſtilence, and eſpecially Plantations abroad, have much drain'd away our People, I ſubmit it whe<g ref="char:EOLhyphen"/>ther the prudence of the preſent, or after Ages, may not think an Act of Endenization convenient for encouragement of foreign Artificers, <hi>&amp;c.</hi> to coha<g ref="char:EOLhyphen"/>bit amongſt us. This I am pretty confident, it will at preſent not be unneceſſary to ſuppreſs the numerous Swarms of Beggars and Vagrants which in all parts abound, to the vaſt ſcandal, detriment, and danger of the Nation, notwithſtanding the wholſome Sta<g ref="char:EOLhyphen"/>tutes heretofore made; to acutate and enliven which with execution, a competent reward for every Per<g ref="char:EOLhyphen"/>ſon that ſhall apprehend ſuch ſturdy Vagrant, and bring him, or her, to the Officer of the Pariſh, where taken, may perhaps not be unuſeful.</p>
+            <p n="2">2. When in any Nation Commodities are Imported to a greater value than what are Exported, Impove<g ref="char:EOLhyphen"/>riſhment ſeems unavoidable, for then our ready Money muſt go out to even the Ballance; whence it appears a Kingdom may be in as much danger by a great Trade ill managed, as by too little; it ſeems therefore propoſable that ſpecial care be taken to im<g ref="char:EOLhyphen"/>prove Commodities of our own growth and Manu<g ref="char:EOLhyphen"/>facture, and reſtrain the bringing in of ſuperfluities and unneceſſaries.</p>
+            <p n="3">3. Hence 'tis conſiderable, whether the vaſt quanti<g ref="char:EOLhyphen"/>ty of Linen Cloth now purchaſed abroad might not
+<pb n="5" facs="tcp:153449:3"/>be ſpared, and a ſufficient ſupply raiſed at home, by encouraging the growth of Hemp, and Flax, <hi>&amp;c.</hi> which will not only raiſe the Rents of our Lands, but alſo continually ſet at work thouſands of idle hands (eſpecially of Women and Children, our greateſt burthen;) To which I know not why we may not add, The ſparing (at leaſt in a great degree) of <hi>French</hi> Wine, by promoting Sider (altogether as pleaſant, and poſſibly more wholſome and agreeable to <hi>Engliſh</hi> Bodies) in its ſtead.</p>
+            <p n="4">4. To keep our Money from croſſing the Sea, I acknowledge there are excellent Laws provided, how well obſerved I ſhall not ſay, only add, That 'tis the opinion of many ſober and obſerving Men, that the end will ſcarce ever be attained, unleſs it be made Mens <hi>Intereſt</hi> as well as <hi>Duty,</hi> not to Export it; To which purpoſe an Expedient was offered about two years ſince in Print, by <hi>R. Haynes</hi> of <hi>Sullington</hi> in <hi>Suſſex:</hi> Printed for Major <hi>Brooks</hi> in <hi>Cornhill,</hi> lately de<g ref="char:EOLhyphen"/>ceaſed; To which I refer the inquiſitive.</p>
+            <p n="5">5. If ſcarcity of Money be objected as the grand hindrance of Trade amongſt us, and cannot be ſup<g ref="char:EOLhyphen"/>pl'yd by ſuch Expedient, there want not means other<g ref="char:EOLhyphen"/>wiſe to raiſe credit that may anſwer that End: To this purpoſe the late <hi>Lumbard</hi> at <hi>Devonſhire-houſe</hi> was Erected, and in purſuance thereof, only alter<g ref="char:EOLhyphen"/>ing the Veſting of it in the Chamber of <hi>London,</hi> from private hands Propoſals have ſince been made.</p>
+            <p>
+               <q>That the Chamber of <hi>London</hi> Erect an Office, with convenient Ware-houſes and Storage for Goods of all ſorts, furniſht with Officers as well reſponſible in regard of Eſtate, as skilful in valuing
+<pb n="6" facs="tcp:153449:4"/>and keeping ſuch Commodities, and the Accounts thereof. Upon the bringing in of Goods into which Office, Bills of Credit may be advanc'd to two Thirds, three Fourths, or upwards, according to their Na<g ref="char:EOLhyphen"/>ture; And the ſame being apprais'd, mark'd, and a Bill of Sale Regiſtred for the Offices ſecurity; the Goods are entred Debtor, the Deliverer Creditor, who may have a Bill of Credit payable at ſeven Months, more or leſs, as the Goods are more or leſs periſhable, allowing Three <hi>per Cent.</hi> which Credit he may (as his occaſions require) write off to any that he is, or ſhall be indebted unto; and has liberty at his pleaſure, to ſee and ſell ſuch Goods; which being done, before removal, he ſatisfies the Office: or if not redeem'd in the limited time, they are ſold by Inch of Candle, and the over-plus re<g ref="char:EOLhyphen"/>turn'd, <hi>&amp;c.</hi> Nor need I ſpend time to ſhew how theſe Bills of Credit may be transferr'd from one to another, and ſerve to all intents, as well as Money, in conſiderable Commerce amongſt us, none ha<g ref="char:EOLhyphen"/>ving reaſon to refuſe or diſtruſt ſuch Security, ſince 'tis built upon a real <hi>Found</hi> depoſited in ſafe hands, as aforeſaid.</q>
+            </p>
+            <p>Many other leſſer Offices of the ſame nature might be ſet up in every City, to furniſh the Poor with Cre<g ref="char:EOLhyphen"/>dit (or Money in ſome caſes) on their Wares or Goods, whereby their ruine by unconſcionable Bro<g ref="char:EOLhyphen"/>kers, Tally-men, <hi>&amp;c.</hi> would be prevented.</p>
+            <p n="6">6. 'Tis ſad to conſider, what vexations Poor Peo<g ref="char:EOLhyphen"/>ple in the Suburbs of this City undergo, by means of unjuſt and trivial Arreſts; how many hundreds are thereby yearly ruined, and their Families brought
+<pb n="7" facs="tcp:153449:4"/>to Pariſh maintenance; which within the Franchiſe of <hi>London</hi> is avoided, by that excellent Court eſtabliſht by King <hi>James P. M.</hi> deſervedly call'd <hi>The Court of Conſcience;</hi> Judicatures of which kind might be as eaſily Erected in the Suburbs, where they are more neceſſary, by reaſon of greater Confluence there, of People mean and indigent.</p>
+            <p n="7">7. The whole Buſineſs of Arreſts and Impriſon<g ref="char:EOLhyphen"/>ment for Debt (at leaſt by <hi>Capias</hi> before Judgment) deſerves Conſideration, if not Regulation; This is certain, <hi>From the beginning it was not ſo;</hi> Nor ſhall I diſpute what our Anceſtors did to make <hi>Truſting Fools</hi> wiſe, or <hi>Ticking Knaves</hi> honeſt; However the preſent Courſe ſeems a little Incongruous.</p>
+            <p n="1">1. In <hi>Nature,</hi> conſequently in Law: Nothing be<g ref="char:EOLhyphen"/>ing diſtrainable but what can ſatisfie, which muſt be an Eſtate either in Land or Goods; for the Body is neither ſaleable, nor eatable.</p>
+            <p n="2">2. In <hi>Diſcretion.</hi> The Creditor hereby diſabling the Debtor, renders his Debt more deſperate.</p>
+            <p n="3">3. In <hi>Reaſon</hi> of State. Depriving the Soveraign of his Subjects, whoſe Bodies thus immured might otherwiſe be ſerviceable in Peace or War.</p>
+            <p n="4">4. In <hi>Juſtice</hi> and Conſcience. That a Man ſhould be debarr'd of his Liberty (the greateſt Enjoyment temporal) on a ſuggeſtion, before it be judicially prov'd that he is either Debtor or Treſpaſſer; Expe<g ref="char:EOLhyphen"/>rience witneſſing, that hardly one Arreſt in ten, but is either wholly cauſeleſs, for Spleen, Revenge, or ſome Inconſiderable Trifle.</p>
+            <p n="5">5. In <hi>Commerce.</hi> Spend-thrifts are allur'd to Rook<g ref="char:EOLhyphen"/>ings, and the truſting Dealer is but ſmoothered in
+<pb n="8" facs="tcp:153449:5"/>his own Feathers; For to pack off his Wares at any rate, he readily Books the looſe Gallant beyond the reach of his Purſe; and if his Fortune fall ſhort, curſes his confidence; and to <hi>eke</hi> out his revenge, takes forth a <hi>Capias</hi> for his Carcaſs, which proves but throwing good Money after bad; for where one crawls out, twenty are ſwallow'd up, or devoured by exceſſive Fees, and debaucheries commonly incident to Goals.</p>
+            <p>In a word, If it be true (what not a few judicious and inquiſitive Men affirm) That there is more mo<g ref="char:EOLhyphen"/>ney ſpent in <hi>England,</hi> in leſs than ſeven years ſpace, amongſt Bayliffs, Goalers, and <hi>Suits</hi> of Law, as would pay all the Debts in the Nation; If we may find a<g ref="char:EOLhyphen"/>bove <hi>fifty thouſand</hi> Perſons conſtantly in Priſon up<g ref="char:EOLhyphen"/>on Civil Actions, beſides ſhort Interlopers, and ſuch as Death delivereth from the Imprudence (not to ſay Cruelty) of their Adverſaries; what recompence can the Kingdom have for its being depriv'd of ſo many members? what confuſion and miſery is there amongſt ſo many wretched Perſons and their Fami<g ref="char:EOLhyphen"/>lies? How can our Country be without ſtore of <hi>Beggars,</hi> Rogues, and Vagrants, till ſo vaſt an Incon<g ref="char:EOLhyphen"/>venience find a Remedy? And will it not be <hi>Pity</hi> (or rather ſhame) if in one of the moſt ingenious Nations in the World for Knowledge, Vertue, and Religion, the <hi>Expedient</hi> ſhould be yet to <hi>ſeek;</hi> or if found, not put in <hi>practiſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153449:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
